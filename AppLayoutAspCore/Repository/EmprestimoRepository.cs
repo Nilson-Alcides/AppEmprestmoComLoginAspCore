@@ -19,12 +19,13 @@ namespace AppLayoutAspCore.Repository
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
+               
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("insert into Emprestimo values(default, @dtEmpre, @dtDev , @codUsu)", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into Emprestimo(Id, dataEmp,dataDev) values(@Id, @dtEmpre, @dtDev )", conexao);
 
                 cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtEmpre;
                 cmd.Parameters.Add("@dtDev", MySqlDbType.VarChar).Value = emprestimo.dtDev;
-                cmd.Parameters.Add("@codUsu", MySqlDbType.VarChar).Value = emprestimo.codUsu;
+                cmd.Parameters.Add("@Id", MySqlDbType.VarChar).Value = emprestimo.codUsu;
                 cmd.ExecuteNonQuery();
                 conexao.Close();
             }

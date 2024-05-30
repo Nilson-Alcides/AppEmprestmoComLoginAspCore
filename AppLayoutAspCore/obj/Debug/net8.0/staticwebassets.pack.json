@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Banco\\Script_EmprestimoLoginCore.sql"
     },
     {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\Imagens\\MongoDB.png",
+      "PackagePath": "staticwebassets\\Imagens\\MongoDB.png"
+    },
+    {
       "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

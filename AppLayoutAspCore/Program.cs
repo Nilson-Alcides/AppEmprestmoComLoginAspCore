@@ -1,7 +1,9 @@
+using AppLayoutAspCore.Libraries.GerenciaArquivos;
 using AppLayoutAspCore.Libraries.Login;
 using AppLayoutAspCore.Repositories.Contract;
 using AppLayoutAspCore.Repositories.Contracts;
 using AppLayoutAspCore.Repository;
+using AppLayoutAspCore.Repository.Contrato;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,9 +17,20 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IColaboradorRepository, ColaboradorRepository>();
 
+builder.Services.AddScoped<ILivroRepository, LivroRepository>();
+builder.Services.AddScoped<IEmprestimoRepository, EmprestimoRepository>();
+builder.Services.AddScoped<IItemRepository, ItemRepository>();
+
 builder.Services.AddScoped<AppLayoutAspCore.Libraries.Sessao.Sessao>();
 builder.Services.AddScoped<LoginCliente>();
 builder.Services.AddScoped<LoginColaborador>();
+
+//Add Gerenciador Arquivo como serviços
+builder.Services.AddScoped<GerenciadorArquivo>();
+builder.Services.AddScoped<AppLayoutAspCore.Libraries.Cookie.Cookie>();
+builder.Services.AddScoped<AppLayoutAspCore.Libraries.CarrinhoCompra.CookieCarrinhoCompra>();
+
+
 
 // Corrigir problema com TEMPDATA
 builder.Services.AddDistributedMemoryCache();

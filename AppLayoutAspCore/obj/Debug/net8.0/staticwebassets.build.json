@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yKjlFU2/MDVH3b/KQ3iBHFSXtczyeXUrvpSb0AyaYVM=",
+  "Hash": "BgmWKvfMUAzN24CovbgKiTOGDAJhgfTSCTd5NAk/4jQ=",
   "Source": "AppLayoutAspCore",
   "BasePath": "_content/AppLayoutAspCore",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\Imagens\\MongoDB.png",
+      "SourceId": "AppLayoutAspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\",
+      "BasePath": "_content/AppLayoutAspCore",
+      "RelativePath": "Imagens/MongoDB.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagens\\MongoDB.png"
     },
     {
       "Identity": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\js\\site.js",
