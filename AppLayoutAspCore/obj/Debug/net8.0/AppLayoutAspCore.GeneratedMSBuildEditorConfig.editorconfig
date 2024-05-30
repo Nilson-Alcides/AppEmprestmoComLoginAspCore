@@ -26,6 +26,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Colaborador/Atualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ29sYWJvcmFkb3JcQXR1YWxpemFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Colaborador/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ29sYWJvcmFkb3JcQ2FkYXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Colaborador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ29sYWJvcmFkb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Home/Painel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxQYWluZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Home/PainelComun.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxQYWluZWxDb211bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Home/PainelGerente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxQYWluZWxHZXJlbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
