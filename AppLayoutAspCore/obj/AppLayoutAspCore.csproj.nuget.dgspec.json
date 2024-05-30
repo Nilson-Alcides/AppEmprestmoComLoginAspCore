@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj": {}
+    "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj": {
+    "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
+        "projectUniqueName": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
         "projectName": "AppLayoutAspCore",
-        "projectPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
+        "projectPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
         "packagesPath": "C:\\Users\\Nilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\obj\\",
+        "outputPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfvL4ifCBITaXtbhcwGqI+lgQx2TK+ABWK96C2G91Xc7cjC4Ni3T7u+A1LX2QydQdjQuopOuvyn1Al6sOhqphA==",
+  "dgSpecHash": "A/TcWQydzDoJsJc+ClIhumGOdh3LyL9rhjTWyN8uDcnc7Vt/6cqrttct75082Uqbeo3DhWQIqxZp5Ay39p8elA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
+  "projectFilePath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\AppLayoutAspCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nilson\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Nilson\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

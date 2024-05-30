@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppLayoutAspCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+540feff8b56d4b5775194aa2fa15937f7c672a0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppLayoutAspCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppLayoutAspCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
