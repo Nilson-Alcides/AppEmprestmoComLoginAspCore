@@ -9,7 +9,8 @@
       "AppLayoutAspCore/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
-          "MySql.Data": "8.4.0"
+          "MySql.Data": "8.4.0",
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "AppLayoutAspCore.dll": {}

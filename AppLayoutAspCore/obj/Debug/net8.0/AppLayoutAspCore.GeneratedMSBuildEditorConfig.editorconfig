@@ -26,12 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Carrinho.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyaW5oby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/PainelCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWluZWxDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Views/Home/Privacy.cshtml]
