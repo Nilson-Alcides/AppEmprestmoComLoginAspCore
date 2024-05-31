@@ -1,5 +1,6 @@
 using AppLayoutAspCore.Libraries.GerenciaArquivos;
 using AppLayoutAspCore.Libraries.Login;
+using AppLayoutAspCore.Libraries.Middleware;
 using AppLayoutAspCore.Repositories.Contract;
 using AppLayoutAspCore.Repositories.Contracts;
 using AppLayoutAspCore.Repository;
@@ -58,7 +59,7 @@ app.UseStaticFiles();
 app.UseDefaultFiles();
 app.UseCookiePolicy();
 app.UseSession();
-//app.UseMiddleware<ValidateAntiForgeryTokenMiddleware>();
+app.UseMiddleware<ValidateAntiForgeryTokenMiddleware>();
 
 app.UseRouting();
 
