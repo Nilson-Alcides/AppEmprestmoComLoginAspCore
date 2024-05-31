@@ -1,4 +1,4 @@
-﻿//using AppLayoutAspCore.Libraries.Filtro;
+﻿using AppLayoutAspCore.Libraries.Filtro;
 using AppLayoutAspCore.Models;
 using AppLayoutAspCore.Repositories.Contract;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +7,7 @@ using MySqlX.XDevAPI;
 namespace AppLayoutAspCore.Areas.Colaborador.Controllers
 {
     [Area("Colaborador")]
-   // [ColaboradorAutorizacao]
+    [ColaboradorAutorizacao]
     public class ClienteController : Controller
     {
         private IClienteRepository _clienteRepository;

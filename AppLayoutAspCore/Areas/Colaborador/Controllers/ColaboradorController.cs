@@ -1,4 +1,5 @@
-﻿//using AppLayoutAspCore.Libraries.Filtro;
+﻿
+using AppLayoutAspCore.Libraries.Filtro;
 using AppLayoutAspCore.Models.Constants;
 using AppLayoutAspCore.Repositories.Contract;
 using AppLayoutAspCore.Repositories.Contracts;
@@ -8,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AppLayoutAspCore.Areas.Colaborador.Controllers
 {
     [Area("Colaborador")]
-   // [ColaboradorAutorizacao(ColaboradorTipoConstant.Gerente)]
+   [ColaboradorAutorizacao(ColaboradorTipoConstant.Gerente)]
     public class ColaboradorController : Controller
     {
         private IColaboradorRepository _colaboradorRepository;

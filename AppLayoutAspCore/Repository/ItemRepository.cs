@@ -16,7 +16,7 @@ namespace AppLayoutAspCore.Repository
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("insert into itensEmp values(default, @codEmp, @codLivro)", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into itensEmp( codEmp, codLivro) values(@codEmp, @codLivro)", conexao);
 
                 cmd.Parameters.Add("@codEmp", MySqlDbType.VarChar).Value = item.codEmp;
                 cmd.Parameters.Add("@codLivro", MySqlDbType.VarChar).Value = item.codLivro;

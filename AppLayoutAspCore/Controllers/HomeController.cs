@@ -4,6 +4,7 @@ using AppLayoutAspCore.Models;
 using AppLayoutAspCore.Repositories.Contract;
 using AppLayoutAspCore.Repository;
 using AppLayoutAspCore.Repository.Contrato;
+using AppLoginAspCore.Libraries.Filtro;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -51,7 +52,7 @@ namespace AppLayoutAspCore.Controllers
                 return View();
             }
         }
-       // [ClienteAutorizacao]
+       [ClienteAutorizacao]
         public IActionResult PainelCliente()
         {
             ViewBag.Nome = _loginCliente.GetCliente().Nome;
@@ -109,6 +110,7 @@ namespace AppLayoutAspCore.Controllers
         }
 
         DateTime data;
+        [ClienteAutorizacao]
         public IActionResult SalvarCarrinho(Emprestimo emprestimo)
         {
             List<Livro> carrinho = _cookieCarrinhoCompra.Consultar();
