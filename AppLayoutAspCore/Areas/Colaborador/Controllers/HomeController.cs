@@ -17,7 +17,7 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
             _loginColaborador = loginColaborador;
         }
        [ColaboradorAutorizacao]
-       // [ValidateHttpReferer]
+       [ValidateHttpReferer]
         public IActionResult Index()
         {
             return View();
@@ -28,7 +28,7 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
             return View();
         }
         [HttpPost]
-        //[ValidateHttpReferer]
+        [ValidateHttpReferer]
         public IActionResult Login([FromForm] Models.Colaborador colaborador)
         {
             Models.Colaborador colaboradorDB = _repositoryColaborador.Login(colaborador.Email, colaborador.Senha);
@@ -53,8 +53,8 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
         {
             return View();
         }
-       // [ColaboradorAutorizacao]
-      //  [ValidateHttpReferer]
+       [ColaboradorAutorizacao]
+      [ValidateHttpReferer]
         public IActionResult Logout()
         {
             _loginColaborador.Logout();

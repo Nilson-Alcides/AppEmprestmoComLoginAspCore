@@ -47,8 +47,8 @@
                     </li>
 
                 </ul>
-                <li class="nav-item dropdown" style="list-style:none"> 
-                        @if (_LoginCliente.GetCliente() != null)
+                <li class="nav-item dropdown nav-link2 sizet" style="list-style:none">
+                    @if (_LoginCliente.GetCliente() != null)
                         {
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">@_LoginCliente.GetCliente().Nome</a>
                             <ul class="dropdown-menu">
