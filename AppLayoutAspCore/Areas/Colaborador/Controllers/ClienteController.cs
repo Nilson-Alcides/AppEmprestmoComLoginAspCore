@@ -44,6 +44,15 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
             _clienteRepository.Desativar(id);
             return RedirectToAction(nameof(Index));
         }
+        public IActionResult Detalhes(int id)
+        {   
+            return View(_clienteRepository.ObterCliente(id));
+        }
+        [HttpPost]
+        public IActionResult Detalhes(Cliente cliente)
+        {
+            return View();
+        }
     }
 }
 

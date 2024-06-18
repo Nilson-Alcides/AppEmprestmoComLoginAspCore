@@ -1,0 +1,100 @@
+﻿@model AppLayoutAspCore.Models.Cliente
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+
+<article class="card-body">
+    @if (TempData["MSG_S"] != null)
+    {
+        <p class="alert alert-success">@TempData["MSG_S"]</p>
+    }
+    <div class="form-row">
+        <div class="col form-group">
+            <label asp-for="Nome">Nome</label>
+            <input type="text" asp-for="Nome" readonly="readonly" class="form-control" placeholder="Informe um nome completo ">
+            
+        </div>
+        <div class="col form-group">
+            <label asp-for="Nascimento">Nascimento</label>
+            <input type="text" asp-for="Nascimento" readonly="readonly" class="form-control Nascimento" placeholder="00/00/0000">
+            
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="form-check form-check-inline">
+            <input class="form-check-input" readonly="readonly" type="radio" asp-for="Sexo" value="M">
+            <span class="form-check-label"> Masculino </span>
+        </label>
+        <label class="form-check form-check-inline">
+            <input class="form-check-input" readonly="readonly" type="radio" asp-for="Sexo" value="F">
+            <span class="form-check-label"> Feminino</span>
+        </label>
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="CPF">CPF</label>
+        <input type="text" asp-for="CPF" readonly="readonly" class="form-control CPF" placeholder="000.000.000-00">
+                
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label asp-for="Telefone">Telefone</label>
+            <input type="text" asp-for="Telefone" readonly="readonly" class="form-control Telefone" placeholder="(00) 0000-0000">
+         
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">E-mail</label>        
+        <input type="text" asp-for="Email" readonly="readonly" class="form-control" placeholder="Digite seu e-mail">
+    </div>
+    <div class="form-group">
+        <label asp-for="Senha">Senha</label>
+        <input class="form-control" asp-for="Senha" readonly="readonly" type="password" placeholder="********">
+       
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CEP">CEP</label>
+        <input type="text" asp-for="CEP" readonly="readonly" class="no-cep cep form-control" placeholder="">
+      
+        <div class="alert alert-danger" style="display:none;"></div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Estado">Estado</label>
+        <input type="text" asp-for="Estado" readonly="readonly" class="form-control" placeholder="">
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="Cidade">Cidade</label>
+        <input type="text" asp-for="Cidade" readonly="readonly" class="form-control" placeholder="">
+        
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Bairro">Bairro</label>
+        <input type="text" asp-for="Bairro" readonly="readonly" class="form-control" placeholder="">
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="Endereco">Endereço</label>
+        <input type="text" asp-for="Endereco" class="form-control" placeholder="">
+        <span asp-validation-for="Endereco"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Complemento">Complemento</label>
+        <input type="text" asp-for="Complemento" readonly="readonly" class="form-control" placeholder="">
+       
+    </div>
+    <div class="form-group">
+        <label asp-for="Numero">Número</label>
+        <input type="text" asp-for="Numero" readonly="readonly" class="form-control" placeholder="">
+        
+    </div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

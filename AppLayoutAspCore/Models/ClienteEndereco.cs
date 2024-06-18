@@ -1,15 +1,9 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AppLayoutAspCore.Models
 {
-    public class Cliente
+    public class ClienteEndereco
     {
         /* PK */
         [Display(Name = "Código", Description = "Código.")]
@@ -29,7 +23,7 @@ namespace AppLayoutAspCore.Models
         public string Sexo { get; set; }
 
         [Display(Name = "CPF")]
-        [Required(ErrorMessage = "O CPF é obrigatorio")]     
+        [Required(ErrorMessage = "O CPF é obrigatorio")]
         public string CPF { get; set; }
 
         [Display(Name = "Celular")]
@@ -46,12 +40,9 @@ namespace AppLayoutAspCore.Models
         [Required(ErrorMessage = "O senha é obrigatorio")]
         [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
         public string Senha { get; set; }
-        
-        [Display(Name = "Situação")]       
+
+        [Display(Name = "Situação")]
         public string? Situacao { get; set; }
-
-
-        /*Endereço residencial do cliente*/
 
         [Display(Name = "CEP", Description = "CEP.")]
         [MaxLength(10, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
@@ -80,5 +71,6 @@ namespace AppLayoutAspCore.Models
 
         [Display(Name = "Número", Description = "Complemento.")]
         public string Numero { get; set; }
+
     }
 }

@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Cliente/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxEZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nilson/source/repos/ASPNETCORE/AppLayoutAspCore/AppEmprestmoComLoginAspCore/AppLayoutAspCore/Areas/Colaborador/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

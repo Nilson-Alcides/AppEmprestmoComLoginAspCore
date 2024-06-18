@@ -3,6 +3,8 @@ using AppLayoutAspCore.Models.Contants;
 using AppLayoutAspCore.Repositories.Contract;
 using MySql.Data.MySqlClient;
 using System.Data;
+using System.Runtime.ConstrainedExecution;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace AppLayoutAspCore.Repository
 {
@@ -49,6 +51,14 @@ namespace AppLayoutAspCore.Repository
 
                     cliente.Email = Convert.ToString(dr["Email"]);
                     cliente.Senha = Convert.ToString(dr["Senha"]);
+
+                    cliente.CEP = Convert.ToString(dr["CEP"]);
+                    cliente.Estado = Convert.ToString(dr["Estado"]);
+                    cliente.Cidade = Convert.ToString(dr["Cidade"]);
+                    cliente.Bairro = Convert.ToString(dr["Bairro"]);
+                    cliente.Endereco = Convert.ToString(dr["Endereco"]);
+                    cliente.Complemento = Convert.ToString(dr["Complemento"]);
+                    cliente.Numero = Convert.ToString(dr["Numero"]);
                 }
                 return cliente;
             }
@@ -82,7 +92,15 @@ namespace AppLayoutAspCore.Repository
                             Telefone = Convert.ToString(dr["Telefone"]),
                             Email = Convert.ToString(dr["Email"]),
                             Senha = Convert.ToString(dr["Senha"]),
-                            Situacao = Convert.ToString(dr["Situacao"])
+                            Situacao = Convert.ToString(dr["Situacao"]),
+                            CEP = Convert.ToString(dr["CEP"]),
+                            Estado = Convert.ToString(dr["Estado"]),
+                            Cidade = Convert.ToString(dr["Cidade"]),
+                            Bairro = Convert.ToString(dr["Bairro"]),
+                            Endereco = Convert.ToString(dr["Endereco"]),
+                            Complemento = Convert.ToString(dr["Complemento"]),
+                            Numero = Convert.ToString(dr["Numero"])
+                            
                         });
                 }
                 return cliList;
@@ -97,8 +115,11 @@ namespace AppLayoutAspCore.Repository
                 {
                     conexao.Open();
 
-                    MySqlCommand cmd = new MySqlCommand("insert into Cliente(Nome, Nascimento, Sexo,  CPF, Telefone, Email, Senha, Situacao) " +
-                    " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, @Senha, @Situacao)", conexao); // @: PARAMETRO
+                    MySqlCommand cmd = new MySqlCommand("insert into Cliente(Nome, Nascimento," +
+                        " Sexo,  CPF, Telefone, Email, Senha, Situacao, CEP, Estado, Cidade, Bairro, " +
+                        " Endereco, Complemento, Numero ) " +
+                    " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, " +
+                    " @Senha, @Situacao, @CEP, @Estado,@Cidade, @Bairro,@Endereco @Complemento, @Numero )", conexao); // @: PARAMETRO
 
 
                     cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = cliente.Nome;
@@ -109,6 +130,14 @@ namespace AppLayoutAspCore.Repository
                     cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = cliente.Email;
                     cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = cliente.Senha;
                     cmd.Parameters.Add("@Situacao", MySqlDbType.VarChar).Value = Situacao;
+                    cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = cliente.CEP;
+                    cmd.Parameters.Add("@Estado", MySqlDbType.VarChar).Value = cliente.Estado;
+                    cmd.Parameters.Add("@Cidade", MySqlDbType.VarChar).Value = cliente.Cidade;
+                    cmd.Parameters.Add("@Bairro", MySqlDbType.VarChar).Value = cliente.Bairro;
+                    cmd.Parameters.Add("@Endereco", MySqlDbType.VarChar).Value = cliente.Endereco;
+                    cmd.Parameters.Add("@Complemento", MySqlDbType.VarChar).Value = cliente.Complemento;
+                    cmd.Parameters.Add("@Numero", MySqlDbType.VarChar).Value = cliente.Numero;
+                    
 
                     cmd.ExecuteNonQuery();
                     conexao.Close();
@@ -134,7 +163,9 @@ namespace AppLayoutAspCore.Repository
             {
                 conexao.Open();
                 MySqlCommand cmd = new MySqlCommand("update Cliente set Nome=@Nome, Nascimento=@Nascimento, Sexo=@Sexo,  CPF=@CPF, " +
-                    " Telefone=@Telefone, Email=@Email, Senha=@Senha, Situacao=@Situacao WHERE Id=@Id ", conexao);
+                    " Telefone=@Telefone, Email=@Email, Senha=@Senha, Situacao=@Situacao" +
+                    " CEP=@CEP, Estado=@Estado, Cidade=@Cidade, Bairro =@Bairro,Complemento=@ComplementoComplemento" +
+                    " Numero=@Numero WHERE Id=@Id ", conexao);
 
                 cmd.Parameters.Add("@Id", MySqlDbType.VarChar).Value = cliente.Id;
                 cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = cliente.Nome;
@@ -145,6 +176,13 @@ namespace AppLayoutAspCore.Repository
                 cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = cliente.Email;
                 cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = cliente.Senha;
                 cmd.Parameters.Add("@Situacao", MySqlDbType.VarChar).Value = Situacao;
+                cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = cliente.CEP;
+                cmd.Parameters.Add("@Estado", MySqlDbType.VarChar).Value = cliente.Estado;
+                cmd.Parameters.Add("@Cidade", MySqlDbType.VarChar).Value = cliente.Cidade;
+                cmd.Parameters.Add("@Bairro", MySqlDbType.VarChar).Value = cliente.Bairro;
+                cmd.Parameters.Add("@Endereco", MySqlDbType.VarChar).Value = cliente.Endereco;
+                cmd.Parameters.Add("@Complemento", MySqlDbType.VarChar).Value = cliente.Complemento;
+                cmd.Parameters.Add("@Numero", MySqlDbType.VarChar).Value = cliente.Numero;
                 cmd.ExecuteNonQuery();
                 conexao.Close();
             }
@@ -184,6 +222,13 @@ namespace AppLayoutAspCore.Repository
                     cliente.Email = (string)(dr["Email"]);
                     cliente.Senha = (string)(dr["Senha"]);
                     cliente.Situacao = (string)(dr["Situacao"]);
+                    cliente.CEP = (string)(dr["CEP"]);
+                    cliente.Estado = (string)(dr["Estado"]);
+                    cliente.Cidade = (string)(dr["Cidade"]);
+                    cliente.Bairro = (string)(dr["Bairro"]);
+                    cliente.Endereco = Convert.ToString(dr["Endereco"]);
+                    cliente.Complemento = Convert.ToString(dr["Complemento"]);
+                    cliente.Numero = Convert.ToString(dr["Numero"]);
 
                 }
                 return cliente;
