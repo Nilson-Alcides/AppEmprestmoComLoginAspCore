@@ -17,59 +17,8 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
-            <a class="navbar-brand" href="#"> Loja Virtual</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="~/Home/Index"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                           aria-haspopup="true" aria-expanded="false">
-                            <i class="fas fa-list-ul"></i> Categorias
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contato.html"><i class="far fa-address-book"></i> Contato </a>
-                    </li>
-
-                </ul>
-                <li class="nav-item dropdown nav-link2 sizet" style="list-style:none">
-                    @if (_LoginCliente.GetCliente() != null)
-                        {
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">@_LoginCliente.GetCliente().Nome</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Minhas Compras</a></li>
-                                <li><a class="dropdown-item" href="#">Meus Perfil</a></li>                                
-                                <li><hr class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="/Home/LogoutCliente">Sair</a></li>
-                            </ul>
-                        }else
-                        {
-                           <a class="nav-link" href="/Home/Login"><i class="fas fa-user-alt"></i> Login</a>
-                        }
-                        </li>
-                        <a class="nav-link" asp-controller="Home" asp-action="carrinho"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-               @*  <form class="form-inline my-2 my-lg-0">
-                   
-                    <a class="nav-link" href="~/Home/Login"><i class="fas fa-user-alt"></i> Login</a>
-                    <a class="nav-link" asp-controller="Home" asp-action="carrinho"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-                </form>  *@
-                </div>
-        </nav>
+        @await Component.InvokeAsync("Menu")
+         
     </header>
    
     <div class="container">

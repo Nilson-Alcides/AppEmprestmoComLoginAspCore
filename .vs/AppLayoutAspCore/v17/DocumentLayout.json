@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\libraries\\component\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\libraries\\component\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +75,8 @@
       "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\models\\clienteendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\models\\clienteendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|c:\\users\\nilson\\source\\repos\\aspnetcore\\applayoutaspcore\\appemprestmocomloginaspcore\\applayoutaspcore\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7636A7-977D-4DBE-A148-BE5111ADE49B}|AppLayoutAspCore\\AppLayoutAspCore.csproj|solutionrelative:applayoutaspcore\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,85 +106,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detalhes.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
-              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T21:46:40.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwDEAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Program.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T21:43:59.163Z",
+              "WhenOpened": "2024-06-25T15:01:43.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAIAwwFAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:23:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\Contract\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Repository\\Contract\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\Contract\\ICategoriaRepository.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Repository\\Contract\\ICategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:23:21.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Libraries\\Component\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Libraries\\Component\\MenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Libraries\\Component\\MenuViewComponent.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Libraries\\Component\\MenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:17:50.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T02:24:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "AppLayoutAspCore\\Repository\\ClienteRepository.cs",
               "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\ClienteRepository.cs",
               "RelativeToolTip": "AppLayoutAspCore\\Repository\\ClienteRepository.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAADwv7YAAAAtAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAtwHUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T20:50:03.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClienteEndereco.cs",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\ClienteEndereco.cs",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\ClienteEndereco.cs",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\ClienteEndereco.cs",
-              "RelativeToolTip": "AppLayoutAspCore\\Models\\ClienteEndereco.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEEAAAAeAAAA",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "AppLayoutAspCore\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:39:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppLayoutAspCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T02:13:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\Categoria.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:34:21.664Z",
+              "WhenOpened": "2024-06-25T14:22:39.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EnderecoEntrega.cs",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
-              "RelativeToolTip": "AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:45:20.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AppLayoutAspCore\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-11T22:01:08.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Home\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Home\\Cadastrar.cshtml",
@@ -168,12 +231,120 @@
               "RelativeToolTip": "AppLayoutAspCore\\Views\\Home\\Cadastrar.cshtml",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAHYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T14:55:14.133Z",
+              "WhenOpened": "2024-06-14T14:55:14.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppLayoutAspCore\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T22:01:08.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADgvzwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:56:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAWwEMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:11:18.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T19:32:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AppLayoutAspCore\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T22:00:07.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Models\\EnderecoEntrega.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:45:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\ClienteEndereco.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\ClienteEndereco.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\ClienteEndereco.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Models\\ClienteEndereco.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:34:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:43:59.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Detalhes.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:46:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
@@ -181,64 +352,11 @@
               "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T21:40:53.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T21:40:53.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "AppLayoutAspCore\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwC0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-11T22:00:07.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppLayoutAspCore\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAswLAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:11:18.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppLayoutAspCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T02:24:08.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAkwKEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T19:32:21.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "AppLayoutAspCore\\Models\\Cliente.cs",
@@ -246,12 +364,11 @@
               "RelativeToolTip": "AppLayoutAspCore\\Models\\Cliente.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:56:06.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T14:56:06.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Repository\\ItemRepository.cs",
               "RelativeDocumentMoniker": "AppLayoutAspCore\\Repository\\ItemRepository.cs",
@@ -260,30 +377,6 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T00:10:36.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AppLayoutAspCore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAkwG4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T02:13:48.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppLayoutAspCore\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:56:15.544Z"
             }
           ]
         }

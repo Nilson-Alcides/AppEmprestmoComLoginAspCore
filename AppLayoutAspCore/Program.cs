@@ -1,6 +1,7 @@
 using AppLayoutAspCore.Libraries.GerenciaArquivos;
 using AppLayoutAspCore.Libraries.Login;
 using AppLayoutAspCore.Libraries.Middleware;
+using AppLayoutAspCore.Repositories;
 using AppLayoutAspCore.Repositories.Contract;
 using AppLayoutAspCore.Repositories.Contracts;
 using AppLayoutAspCore.Repository;
@@ -21,6 +22,8 @@ builder.Services.AddScoped<IColaboradorRepository, ColaboradorRepository>();
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<IEmprestimoRepository, EmprestimoRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+
 
 builder.Services.AddScoped<AppLayoutAspCore.Libraries.Sessao.Sessao>();
 builder.Services.AddScoped<LoginCliente>();
