@@ -52,7 +52,7 @@
           "dependencies": {
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.6, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -61,6 +61,14 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "jQuery.DataTables.Net": {
+              "target": "Package",
+              "version": "[1.10.5, )"
             }
           },
           "imports": [

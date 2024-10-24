@@ -9,6 +9,7 @@ namespace AppLayoutAspCore.Libraries.Filtro
         {
             //Executado antes passar pelo controlador
             // Esta validação verifica se a requisição esta vindo do nosso host 
+
             string referer = context.HttpContext.Request.Headers["Referer"].ToString();
             if (string.IsNullOrEmpty(referer))
             {

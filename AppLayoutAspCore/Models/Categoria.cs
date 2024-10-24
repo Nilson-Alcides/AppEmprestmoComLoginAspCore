@@ -41,9 +41,6 @@ namespace AppLayoutAspCore.Models
         public int? CategoriaPaiId { get; set; }
 
 
-        /*
-         * ORM - EntityFrameworkCore
-         */
          [ForeignKey("CategoriaPaiId")]
          public virtual Categoria CategoriaPai { get; set; }
     }

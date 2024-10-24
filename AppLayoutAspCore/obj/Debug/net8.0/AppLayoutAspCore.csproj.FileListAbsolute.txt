@@ -253,6 +253,8 @@ C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAsp
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
@@ -283,6 +285,7 @@ C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAsp
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\System.Security.Permissions.dll
@@ -461,3 +464,6 @@ C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAsp
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\obj\Debug\net8.0\AppLayoutAspCore.pdb
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\obj\Debug\net8.0\AppLayoutAspCore.genruntimeconfig.cache
 C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\obj\Debug\net8.0\ref\AppLayoutAspCore.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\Nilson\source\repos\ASPNETCORE\AppLayoutAspCore\AppEmprestmoComLoginAspCore\AppLayoutAspCore\obj\Debug\net8.0\AppLayoutAspCore.MvcApplicationPartsAssemblyInfo.cs

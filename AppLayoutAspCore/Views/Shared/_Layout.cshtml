@@ -11,14 +11,18 @@
     <link rel="stylesheet" href="~/lib/bootstrap-ecommerce-uikit/css/responsive.css" rel="stylesheet" media="only screen and (max-width: 1200px)" />
     
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/pagedlist/PagedList.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AppLayoutAspCore.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
           crossorigin="anonymous">
+  
+    <link href="~/lib/jquery/DataTables/datatables.min.css" rel="stylesheet">
 </head>
 <body>
     <header>
-        @await Component.InvokeAsync("Menu")
-         
+
+        @await Component.InvokeAsync("Menu")   
+        
     </header>
    
     <div class="container">
@@ -35,7 +39,12 @@
     <script src="~/lib/popper1.14.6/popper.min.js"></script>
     <script src="~/lib/bootstrap-4.2.1-dist/js/bootstrap.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
-            crossorigin="anonymous"></script>
+@*     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+            crossorigin="anonymous"></script> *@
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    
+   
+
+    <script src="~/lib/jquery/DataTables/datatables.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="></script>
 </body>
 </html>

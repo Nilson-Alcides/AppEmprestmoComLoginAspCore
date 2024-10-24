@@ -62,7 +62,7 @@ app.UseStaticFiles();
 app.UseDefaultFiles();
 app.UseCookiePolicy();
 app.UseSession();
-app.UseMiddleware<ValidateAntiForgeryTokenMiddleware>();
+// app.UseMiddleware<ValidateAntiForgeryTokenMiddleware>();
 
 app.UseRouting();
 

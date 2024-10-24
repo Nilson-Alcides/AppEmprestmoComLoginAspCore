@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Imagens\\MongoDB.png"
     },
     {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\pagedlist\\PagedList.css",
+      "PackagePath": "staticwebassets\\css\\pagedlist\\PagedList.css"
+    },
+    {
       "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -423,6 +427,22 @@
     {
       "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\jquery\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\DataTables\\datatables.min.js"
     },
     {
       "Id": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\AppLayoutAspCore\\AppEmprestmoComLoginAspCore\\AppLayoutAspCore\\wwwroot\\lib\\jquery\\LICENSE.txt",

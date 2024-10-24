@@ -52,6 +52,7 @@ namespace AppLayoutAspCore.Controllers
                 return View();
             }
         }
+
        [ClienteAutorizacao]
         public IActionResult PainelCliente()
         {
@@ -174,6 +175,11 @@ namespace AppLayoutAspCore.Controllers
                 return RedirectToAction(nameof(Login));
             }
             return View();
+        }
+        [ClienteAutorizacao]
+        public IActionResult Detalhes(int id)
+        {
+            return View(_clienteRepository.ObterCliente(id));
         }
         public IActionResult Privacy()
         {

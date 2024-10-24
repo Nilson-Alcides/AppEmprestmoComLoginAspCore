@@ -11,15 +11,18 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.5">
     <title>@ViewBag.Title</title>
-
-    <link href="~/css/StyleSheet.css" rel="stylesheet" type="text/css" />
+@* 
+    <link href="~/css/StyleSheet.css" rel="stylesheet" type="text/css" /> *@
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="~/resources/lib/bootstrap-4.2.1-dist/css/bootstrap.min.css" />
+
+    
+
     <link rel="stylesheet" href="~/resources/lib/pagedlist/PagedList.css" rel="stylesheet" type="text/css" />
 
     @*  <link href="~/resources/lib/pagedlist/PagedList.css" rel="stylesheet" type="text/css" /> *@
-
+    <link href="~/lib/jquery/DataTables/datatables.min.css" rel="stylesheet">
     <style>
         .bd-placeholder-img {
             font-size: 1.125rem;
@@ -38,6 +41,7 @@
     </style>
     <!-- Custom styles for this template -->
     <link href="~/resources/lib/dashboard/dashboard.css" rel="stylesheet">
+
 </head>
 <body>
     <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
@@ -151,16 +155,18 @@
             </main>
         </div>
     </div>
+   
     <script src="~/resources/lib/jquery3.3.1/jquery-3.3.1.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/resources/lib/jquery3.3.1/jquery-3.3.1.min.js"><\/script>')</script>
+    
     <script src="~/resources/lib/mask/jquery.mask.min.js"></script>
     <script src="~/resources/lib/bootstrap-4.2.1-dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/resources/lib/feather/feather.js"></script>
     <script src="~/resources/lib/charts/charts.js"></script>
     <script src="~/resources/lib/dashboard/dashboard.js"></script>
-    <script src="~/resources/js/Actions.js"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
-            crossorigin="anonymous"></script>
+
+    <script src="~/lib/jquery/DataTables/datatables.min.js"></script>  
+
+  
 </body>
 </html>
 

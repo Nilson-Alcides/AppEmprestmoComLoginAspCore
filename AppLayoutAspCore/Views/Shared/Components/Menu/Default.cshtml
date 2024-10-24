@@ -1,9 +1,6 @@
 ﻿@model List<Categoria> 
 @inject AppLayoutAspCore.Libraries.Login.LoginCliente _LoginCliente
-@{ 
-    //TODO - Pegar apenas* o primeiro* nome* do usuário e apresentar quando estiver logado.
-    // var pesquisa = Context.Request.Query["pesquisa"];
-}
+
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
     <a class="navbar-brand" href="#"> Loja Virtual</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -42,9 +39,10 @@
         <li class="nav-item dropdown nav-link2 sizet" style="list-style:none">
             @if (_LoginCliente.GetCliente() != null)
             {
-                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">@_LoginCliente.GetCliente().Nome</a>
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" 
+                aria-expanded="false">@_LoginCliente.GetCliente().Nome</a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Minhas Compras</a></li>
+                    <li><a class="dropdown-item" href="/Home/PainelCliente">Painel Cliente</a></li>
                     <li><a class="dropdown-item" href="#">Meus Perfil</a></li>
                     <li><hr class="dropdown-divider"></li>
                     <li><a class="dropdown-item" href="/Home/LogoutCliente">Sair</a></li>
@@ -56,10 +54,6 @@
             }
         </li>
         <a class="nav-link" asp-controller="Home" asp-action="carrinho"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-        @*  <form class="form-inline my-2 my-lg-0">
-
-        <a class="nav-link" href="~/Home/Login"><i class="fas fa-user-alt"></i> Login</a>
-        <a class="nav-link" asp-controller="Home" asp-action="carrinho"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-        </form>  *@
+        
     </div>
 </nav>

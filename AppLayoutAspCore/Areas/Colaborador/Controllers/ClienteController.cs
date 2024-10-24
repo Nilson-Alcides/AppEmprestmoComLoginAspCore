@@ -1,6 +1,7 @@
 ﻿using AppLayoutAspCore.Libraries.Filtro;
 using AppLayoutAspCore.Models;
 using AppLayoutAspCore.Repositories.Contract;
+using AppLoginAspCore.Libraries.Filtro;
 using Microsoft.AspNetCore.Mvc;
 using MySqlX.XDevAPI;
 
@@ -20,6 +21,12 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
         public IActionResult Index()
         {
             return View(_clienteRepository.ObterTodosClientes());
+        }
+        [HttpPost]
+        public IActionResult Index(int draw, int start, int length, string search)
+        {
+            var clientes = _clienteRepository.ObterTodosClientes();
+            return Json(new { data = clientes });
         }
         public IActionResult Cadastrar()
         {
@@ -43,7 +50,7 @@ namespace AppLayoutAspCore.Areas.Colaborador.Controllers
         {
             _clienteRepository.Desativar(id);
             return RedirectToAction(nameof(Index));
-        }
+        } 
         public IActionResult Detalhes(int id)
         {   
             return View(_clienteRepository.ObterCliente(id));
