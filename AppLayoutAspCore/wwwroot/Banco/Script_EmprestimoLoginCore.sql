@@ -11,8 +11,14 @@ CPF Varchar(11) not null,
 Telefone Varchar(14) not null,
 Email Varchar(50) not null,
 Senha Varchar(8) not null,
-ConfirmacaoSenha Varchar(8) not null,
-Situacao char(1) not null
+Situacao char(1) not null,
+CEP varchar(10) not null,
+Estado varchar(70) not null,
+Cidade varchar(70) not null,
+Bairro varchar(70) not null,
+Endereco varchar(150) not null,
+Complemento varchar(150), 
+Numero varchar(15)     
 );
 
 create table Colaborador(
@@ -22,7 +28,10 @@ Email Varchar(50) not null,
 Senha Varchar(8) not null,
 Tipo Varchar(8) not null
 );
-
+Create table Categoria(
+Id int primary key auto_increment,
+Nome varchar(50)
+);
 create table Livro(
 codLivro int primary key auto_increment,
 nomeLivro varchar(50) not null,
@@ -44,4 +53,3 @@ codEmp int,
 foreign key(codEmp) references Emprestimo(codEmp),
 foreign key(codLivro) references Livro(codLivro)
 );
-

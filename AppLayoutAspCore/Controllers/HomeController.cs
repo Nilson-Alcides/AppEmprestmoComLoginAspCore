@@ -59,6 +59,7 @@ namespace AppLayoutAspCore.Controllers
             ViewBag.Nome = _loginCliente.GetCliente().Nome;
             ViewBag.CPF = _loginCliente.GetCliente().CPF;
             ViewBag.Email = _loginCliente.GetCliente().Email;
+            ViewBag.Id = _loginCliente.GetCliente().Id;
             //return new ContentResult() { Content = "Este é o Painel do Cliente!" };
             return View();
         }
@@ -123,7 +124,7 @@ namespace AppLayoutAspCore.Controllers
 
             mdE.dtEmpre = data.ToString("dd/MM/yyyy");
             mdE.dtDev = data.AddDays(7).ToString();
-            mdE.codUsu = "1";
+            mdE.codUsu = "1";// Convert.ToString( _loginCliente.GetCliente().Id);
             _emprestimoRepository.Cadastrar(mdE);
 
             _emprestimoRepository.buscaIdEmp(emprestimo);

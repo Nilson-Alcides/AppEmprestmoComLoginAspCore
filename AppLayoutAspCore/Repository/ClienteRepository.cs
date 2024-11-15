@@ -137,18 +137,19 @@ namespace AppLayoutAspCore.Repository
                     cmd.Parameters.Add("@Endereco", MySqlDbType.VarChar).Value = cliente.Endereco;
                     cmd.Parameters.Add("@Complemento", MySqlDbType.VarChar).Value = cliente.Complemento;
                     cmd.Parameters.Add("@Numero", MySqlDbType.VarChar).Value = cliente.Numero;
-                    
 
                     cmd.ExecuteNonQuery();
+
+
                     conexao.Close();
                 }
 
             }
-            catch (MySqlException ex)
-            {
+            //catch (MySqlException ex)
+            //{
 
-                throw new Exception("Erro no banco em cadastro cliente" + ex.Message);
-            }
+            //    throw new Exception("Erro no banco em cadastro cliente" + ex.Message);
+            //}
             catch (Exception ex)
             {
 
